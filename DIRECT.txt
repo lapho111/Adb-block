@@ -1,2 +1,1 @@
-DOMAIN-SUFFIX,spankbang.com,DIRECT
-DOMAIN-SUFFIX,spankbang.net,DIRECT
+DOMAIN-KEYWORD,spankbang,DIRECT
