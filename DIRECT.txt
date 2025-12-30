@@ -1,0 +1,2 @@
+DOMAIN-SUFFIX,spankang.com,DIRECT
+DOMAIN-SUFFIX,spankang.net,DIRECT
